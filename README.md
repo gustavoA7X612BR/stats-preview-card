@@ -50,5 +50,5 @@ In this project I improved my knowledge about responsiveness.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](@gustavoA7X612BR)
-- Instagram - [@yourusername](@gustavo.monteiro.68)
+- Frontend Mentor - [@gustavoA7X612BR](https://www.frontendmentor.io/profile/gustavoA7X612BR)
+- Instagram - [@gustavo.monteiro.68](https://www.instagram.com/gustavo.monteiro.68)
