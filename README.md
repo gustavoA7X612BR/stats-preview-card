@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://thirsty-shirley-7c6547.netlify.app/)
 
 ## My process
 
@@ -50,5 +50,5 @@ In this project I improved my knowledge about responsiveness.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](@gustavoA7X612BR)
+- Instagram - [@yourusername](@gustavo.monteiro.68)
