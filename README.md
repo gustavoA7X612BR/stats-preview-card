@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://thirsty-shirley-7c6547.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/preview-card-using-flexbox-yulRcFf-_](https://www.frontendmentor.io/solutions/preview-card-using-flexbox-yulRcFf-_)
+- Live Site URL: [https://thirsty-shirley-7c6547.netlify.app/](https://thirsty-shirley-7c6547.netlify.app/)
 
 ## My process
 
