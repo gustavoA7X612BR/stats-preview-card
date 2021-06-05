@@ -17,9 +17,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-This is my first challenge from frontendmentor.io, a simple responsive card made only with HTML and CSS, no JavaScript was needed.
-
 ### The challenge
+
+This is my first challenge from frontendmentor.io, a simple responsive card made only with HTML and CSS, no JavaScript was needed.
 
 Users should be able to:
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Built with
 
-- HTML5
+- HTML
 - CSS
 - Flexbox
 
